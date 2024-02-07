@@ -14,4 +14,4 @@ Compare the results to recommend the best Regression Model.
 
 COLAB NOTEBOOK Link: https://drive.google.com/file/d/1ERYiuz50c2oM6E87_h8Uc-IBq1YSZYAW/view?usp=sharing
 
-ppt link:https://docs.google.com/presentation/d/1Lz3_l8fBMRpbfn99dAjGPq7-8qZLXyia/edit?usp=sharing&ouid=117901567812782643323&rtpof=true&sd=true
+PPT Link: https://docs.google.com/presentation/d/1Lz3_l8fBMRpbfn99dAjGPq7-8qZLXyia/edit?usp=sharing&ouid=117901567812782643323&rtpof=true&sd=true

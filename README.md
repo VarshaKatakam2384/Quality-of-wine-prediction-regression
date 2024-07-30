@@ -6,9 +6,7 @@ Studied and Analyzed the Quality of wine prediction dataset to apply Machine Lea
 
 Performed various Exploratory Data Analyses to understand the data and compare the variables.
 
-Experimented with different Machine Learning Algorithms, Linear Regression, Ridge Regression, Lasso Regression, Random Forest Regression, K - Nearest Neighbor, Support Vector Machine, XG
-
-Boost.
+Experimented with different Machine Learning Algorithms, Linear Regression, Ridge Regression, Lasso Regression, Random Forest Regression, K - Nearest Neighbor, Support Vector Machine, XG Boost.
 
 Compare the results to recommend the best Regression Model.
 
